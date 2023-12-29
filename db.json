@@ -1,0 +1,10 @@
+{
+    "jwk.json": {
+        "kty": "RSA",
+        "n": "kqYS7fNZ_a_IRX7UDyxzul_q-A_z3LqHTk7peFlOQ-9c2eDb3KIm4sh6YYn21HwwLWR-RF-y89TpXaLmdoldg7kRxsJYG1gACtFuToblQiF6nePwuqRqJTtY5zaZjGhKVToSvLwxQMH5CofH9eCqtFRIPZdYrdSylIT4aAGlIXcJr5ECfjUtBMqZm8LxhJ0T0zSjhVJaxG2GY4T930T3c79sh--ZSwbhYuyEQ8qqMnM1zvBRHyZEte-RgGEDV2_2kyFD3iYU75V7T3T8wkBcgRHL-gLoFT4H_vMsVjdCxAaWtkZEhCgPrfW8Vxe-Tnx4T3n9y7Kva4BzskMTXHrEaQ",
+        "e": "AQAB",
+        "alg": "RS256",
+        "kid": "9b0285c31bfd8b040e03157b19c4e960bdc10c6f",
+        "use": "sig"
+    }
+}
